@@ -1,0 +1,9 @@
+.DS_Store
+*.bo
+*.ba
+*.o
+*.so
+*.cxx
+*.h
+sim
+sim.so
